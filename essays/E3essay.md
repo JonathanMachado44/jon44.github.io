@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "E3 essay"
 # All dates must be YYYY-MM-DD format!
-date: 2022-09-28
+date: 2022-09-26
 published: true
 labels:
 
