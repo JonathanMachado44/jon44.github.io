@@ -8,18 +8,12 @@ published: true
 labels:
 
 ---
-<p2>Summary </p2>
-<a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html">link to assignment page</a>
+<p2>Summary </p2> <a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html">link to assignment page</a>
+
 <p>The WODs for the E3 essay are Browser history 6, where we needed to create separate webpages for the different browsers that we talked about, Invoice1, where we needed to create a dynamic sales receipt that contained at least 5 different products, and Smartphone Products 2, which aimed to eliminate hard coding we did for our spartphone products page.</p>
 
-<p>2.	Discuss your experiences in performing the WOD. What worked well, what did you stumble on or slowed you down.</p>
+<p>Browser History 6</p>
 
-<p>I understand what he expects us to do, but sometimes the wording is a little bit hard to understand. Another problem I have is getting used to the symbols and wording needed for the various languages.</p>
+<p>The Browser History 6 WOD took me 3 tries to get the standard time. One thing that went well in this WoD was creating the different web pages, tht was not a problem for me. One of the things I had trouble with was configuring the buttons, that took a decent chunk of my time to figure out. I prepared for the WOD by reading the instructions and practicing until I got the standard time. I could have done better by doing more practice runs and reading the instructions more carefully. </p>
 
-<p>3.	Describe what you to did to prepare. What did you do similarly or differently from the WOD before this?</p>
 
-<p>To prepare for this WOD, I read through the instructions and reviewed our lab. The WOD before this was Invoice1. Similarly, invoice1 was exactly like the corresponding lab and just required me to review before attempting it. To summarize, I did not do anything different when preparing for these two WODs because there was nothing that we did not learn yet.</p>
-
-<p>4.	Discuss what you could have done to be better prepared and what you might try differently for the next WOD.</p>
-
-<p>I will stick to my method of preparing for WODs, which is reviewing the lab before attempting it for now. I think my formula works for now, but if I had to do something different, I would try to worry less about the amount of time I take to finish the WODs. I found that I ended up losing points because of errors in my code.</p>
