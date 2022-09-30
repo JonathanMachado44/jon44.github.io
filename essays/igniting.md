@@ -1,19 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "E3 essay"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2022-09-28
+published: true
 labels:
-  - Software Engineering
-  - Learning
+
 ---
+<p>1.	Provide a brief introduction to the WOD along with a <a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html">link to this page</a> for further details</p>
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<p>The WODs for the E3 essay are Browser history 6, where we needed to create separate webpages for the different browsers that we talked about, Invoice1, where we needed to create a dynamic sales receipt that contained at least 5 different products, and Smartphone Products 2, which aimed to eliminate hard coding we did for our spartphone products page.</p>
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+<p>2.	Discuss your experiences in performing the WOD. What worked well, what did you stumble on or slowed you down.</p>
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+<p>I understand what he expects us to do, but sometimes the wording is a little bit hard to understand. Another problem I have is getting used to the symbols and wording needed for the various languages.</p>
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+<p>3.	Describe what you to did to prepare. What did you do similarly or differently from the WOD before this?</p>
+
+<p>To prepare for this WOD, I read through the instructions and reviewed our lab. The WOD before this was Invoice1. Similarly, invoice1 was exactly like the corresponding lab and just required me to review before attempting it. To summarize, I did not do anything different when preparing for these two WODs because there was nothing that we did not learn yet.</p>
+
+<p>4.	Discuss what you could have done to be better prepared and what you might try differently for the next WOD.</p>
+
+<p>I will stick to my method of preparing for WODs, which is reviewing the lab before attempting it for now. I think my formula works for now, but if I had to do something different, I would try to worry less about the amount of time I take to finish the WODs. I found that I ended up losing points because of errors in my code.</p>
