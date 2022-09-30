@@ -8,8 +8,8 @@ published: true
 labels:
 
 ---
-<p>1.	Provide a brief introduction to the WOD along with a <a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html">link to this page</a> for further details</p>
-
+<p2>Summary </p2>
+<a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html">link to assignment page</a>
 <p>The WODs for the E3 essay are Browser history 6, where we needed to create separate webpages for the different browsers that we talked about, Invoice1, where we needed to create a dynamic sales receipt that contained at least 5 different products, and Smartphone Products 2, which aimed to eliminate hard coding we did for our spartphone products page.</p>
 
 <p>2.	Discuss your experiences in performing the WOD. What worked well, what did you stumble on or slowed you down.</p>
