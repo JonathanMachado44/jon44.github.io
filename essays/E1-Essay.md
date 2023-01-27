@@ -10,7 +10,7 @@ labels:
 ---
 
 
-<h2>WOD 1 <h2/>
+WOD 1
 
 For the first WOD the main focus was greating a basic functioning web page that talked about the history of web browsers. We used HTML tags to organize paragraphs and headers, linking to other websites, along with formatting images. I was able to finish this WOD on the second time for the standard time.
 
