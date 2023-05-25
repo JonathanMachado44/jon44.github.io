@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E6 Essay"
+title: "E6"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-12
 published: true
@@ -26,7 +26,7 @@ I think I'm least happy with my UI for the website. I would say that the design 
 
 5) How was developing this assignment different than assignment #2?
 
-Assignment 2 was different because in Assignment 3 we had to to implement features such as sessions and cookies that  allow the website to store data for a specific user and pass it through multiple pages. In addition to implementing sessions and cookies, we also had to send a confirmation email to the user after completing their purchase.
+Assignment 2 was different because in Assignment 3 we had to to implement features such as sessions and cookies that allow the website to store data for a specific user and pass it through multiple pages. In addition to implementing sessions and cookies, we also had to send a confirmation email to the user after completing their purchase.
 
 6) When you ran into a problem, what did you do to address it?
 
@@ -46,7 +46,7 @@ I learned that it may be beneficial to anticipate future assignments, particular
 
 10) If you could go back in time and do things differently, what would you change?
 
-I think that I would have started the assignment even earlier. i staarted around when E5 was due but I still don't think that was enough time. Like I said before, I spent a significant portion of my time reworking assignment 2 to meet the updated requirements of assignment 3.
+I think that I would have started the assignment even earlier. I started around when E5 was due but I still don't think that was enough time. Like I said before, I spent a significant portion of my time reworking assignment 2 to meet the updated requirements of assignment 3.
 
 11) Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
 
