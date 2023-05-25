@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E1 Essay"
+title: "E1"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-27
 published: true
