@@ -18,7 +18,7 @@ There were two notable shortcomings in my website. I could not figure out how to
 
 3) Describe what you are most proud of about your system:
 
-I am honestly just proud that I was able to produce a mostly functionning website, during finals week I ran into a lot problems both in and outside of school that took my attention away from Assignmnet 3, so the fact that I was able to finish the project on time is some thing I'm really proud of.
+I am honestly just proud that I was able to produce a mostly functioning website, during finals week I ran into a lot problems both in and outside of school that took my attention away from Assignmnet 3, so the fact that I was able to finish the project on time is some thing I'm really proud of.
 
 4) Describe what you are least happy with your system:
 
