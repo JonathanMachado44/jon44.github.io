@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E3 essay"
+title: "E3"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-12
 published: true
