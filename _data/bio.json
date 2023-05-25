@@ -1,0 +1,48 @@
+{
+  "basics": {
+    "name": "Jonathan Machado",
+    "label": "Student",
+    "picture": "https://github.com/JonathanMachado44.png",
+    "email": "jam30@hawaii.edu",
+    "website": "https://jonathanmachado44.github.io",
+    "summary": "I am an MIS major at the University of Hawaii at Manoa and I am expected to graduate in Spring 2024",
+    "location": { "2500 Campus Road": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jonathanmachado44", "url": "http://github.com/jonathanmachado44" }
+    ]
+  },
+  "interests": [
+    { "name": "Web Development" },
+    { "name": "Cloud Computing" },
+    { "name": "Music" }
+  ],
+  "skills": [
+    {
+      "name": "Art",
+      "keywords": [ "Crosshatch", "Pointilism", "Watercolor"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "MIS (expected Spring 2024)",
+      "studyType": "B.B.A",
+      "startDate": "2020-08-20",
+      "endDate": "2024-05-15"
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaii Department of Education",
+      "position": "Substitute Teacher",
+      "website": "",
+      "startDate": "2023-01-04",
+      "endDate": "Present"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
