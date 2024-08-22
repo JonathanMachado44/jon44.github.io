@@ -1,13 +1,13 @@
 {
-  "basics": {
+  "basics":{
     "name": "Jonathan Machado",
     "label": "Student",
     "picture": "https://github.com/JonathanMachado44.png",
     "email": "jam30@hawaii.edu",
     "website": "https://jonathanmachado44.github.io",
     "summary": "I am an MIS major at the University of Hawaii at Manoa and I am expected to graduate in Spring 2024",
-    "location": { "2500 Campus Road": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
+    "location":{ "2500 Campus Road": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles":[
       { "network": "github", "username": "jonathanmachado44", "url": "http://github.com/jonathanmachado44" },
       { "network": "linkedin", "username": "jonathan-machado-56a4b4260", "url": "http://linkedin.com/in/jonathan-machado-56a4b4260/" }
     ]
