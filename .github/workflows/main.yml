@@ -1,4 +1,4 @@
-name: Jekyll Deploy
+Jekyll Deploy
 
 on:
   push:
@@ -6,45 +6,26 @@ on:
       - main
 
 jobs:
+
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      # Setup Ruby
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.1 # Specify the Ruby version you are using
-
-      # Cache dependencies
+      - name: GitHub Checkout
+        uses: actions/checkout@v1
       - name: Bundler Cache
-        uses: actions/cache@v3
+        uses: actions/cache@v1
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-
-      # Install dependencies
-      - name: Install Dependencies
-        run: bundle install --path vendor/bundle
-
-      # Validate JSON file (Optional)
-      - name: Validate bio.json file
+      - name: validate-bio-json-file
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\bio.json$"
-
-      # Build the site
-      - name: Build the site with Jekyll
-        run: bundle exec jekyll build
-
-      # Deploy to GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+      - name: Build & Deploy to GitHub Pages
+        uses: joshlarsen/jekyll4-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
