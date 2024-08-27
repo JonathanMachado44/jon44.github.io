@@ -1,18 +1,28 @@
 {
-  "basics":{
+  "basics": {
     "name": "Jonathan Machado",
     "label": "Student",
     "picture": "https://github.com/JonathanMachado44.png",
     "email": "jam30@hawaii.edu",
     "website": "https://jonathanmachado44.github.io",
     "summary": "I am an MIS major at the University of Hawaii at Manoa and I expect to graduate in Spring 2024",
-    "location":{ "2500 Campus Road": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles":[
-      { "network": "github", "username": "jonathanmachado44", "url": "http://github.com/jonathanmachado44" },
+    "location": {
+      "addressLine1": "2500 Campus Road",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "jonathanmachado44",
+        "url": "http://github.com/jonathanmachado44"
+      },
       {
         "network": "linkedin",
         "username": "jonathan-machado-56a4b4260",
-        "url": "www.linkedin.com/in/jonathan-machado-56a4b4260"
+        "url": "https://www.linkedin.com/in/jonathan-machado-56a4b4260"
       }
     ]
   },
@@ -24,13 +34,13 @@
   "skills": [
     {
       "name": "Art",
-      "keywords": [ "Crosshatch", "Pointilism", "Watercolor"]
+      "keywords": [ "Crosshatch", "Pointilism", "Watercolor" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "MIS (expected Spring 2024)",
+      "area": "MIS",
       "studyType": "B.B.A",
       "startDate": "2020-08-20",
       "endDate": "2024-05-15"
@@ -43,11 +53,6 @@
       "website": "",
       "startDate": "2023-01-04",
       "endDate": "Present"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
